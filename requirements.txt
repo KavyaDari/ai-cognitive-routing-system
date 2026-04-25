@@ -1,6 +1,11 @@
 langchain
+langchain-core
+langchain-groq
 langgraph
-huggingface_hub
+
 sentence-transformers
 faiss-cpu
+numpy
+
+huggingface-hub
 python-dotenv
